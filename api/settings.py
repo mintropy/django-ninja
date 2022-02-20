@@ -32,7 +32,9 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'article',
-    
+
+    'ninja_extra',
+
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
